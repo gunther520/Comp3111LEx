@@ -4,6 +4,8 @@
 
 Creating a readme file in IntelliJ
 
-![file](src/main/java/Lab1/screenshots/Screenshot 2023-09-15 at 10.10.35 PM.png)
-![file](src/main/java/Lab1/screenshots/Screenshot 2023-09-15 at 10.15.31 PM.png)
-![file](src/main/java/Lab1/screenshots/Screenshot 2023-09-15 at 10.16.09 PM.png)
+![](https://github.com/gunther520/Comp3111LEx/blob/main/src/main/java/Lab1/screenshots/Screenshot%202023-09-15%20at%2010.10.35%20PM.png)
+
+![](https://github.com/gunther520/Comp3111LEx/blob/main/src/main/java/Lab1/screenshots/Screenshot%202023-09-15%20at%2010.15.31%20PM.png)
+
+![](https://github.com/gunther520/Comp3111LEx/blob/main/src/main/java/Lab1/screenshots/Screenshot%202023-09-15%20at%2010.16.09%20PM.png)
