@@ -1,6 +1,6 @@
 # This is a readme file
 
-### Comp3111 Lab 1
+### Comp3111 Lab2a 1
 
 Creating a readme file in IntelliJ
 
